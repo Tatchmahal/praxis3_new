@@ -110,3 +110,20 @@ margin-bottom: 10px;
 .nav-link{
   color: #F6E6E7;
 }
+
+.form-check-label{
+  color:#F6E6E7;
+}
+
+.answer-text{
+  color: #431416;
+  margin-top: 10px;
+}
+
+a:hover{
+  color: Black;
+}
+
+a:link{
+  color: #431416;
+}
