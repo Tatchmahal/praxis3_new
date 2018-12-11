@@ -45,6 +45,7 @@
   border-radius: 20px;
   text-align: center;
   color:#431416;
+  font-size: 20px;
 }
 
 a:hover{
@@ -63,20 +64,24 @@ a:link{
   margin-bottom: 20px;
   margin-top: 20px;
   color: #F6E6E7;
+  size: 5;
 }
 
 .card-body{
     background-color:#F6E6E7;
+    font-size: 20px;
 }
 
 .card-header{
   background-color:#F6E6E7;
   color: #431416;
+  font-size: 25px;
 }
 
 .list-group-item{
   background-color: #F6E6E7;
   color: #431416;
+  font-size: 20px;
 }
 
 .card-text{
@@ -120,6 +125,7 @@ margin-bottom: 10px;
 
 .ueberschrfit{
   color: #F6E6E7;
+  font-size: 30px;
 }
 
 .form-check-label{
@@ -129,4 +135,5 @@ margin-bottom: 10px;
 .answer-text{
   color: #F6E6E7;
   margin-top: 10px;
+  font-size: 20px;
 }
