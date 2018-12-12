@@ -1,6 +1,6 @@
-.col-md-7-scroll{
+.col-sm-7-scroll{
     position: absolute;
-    top: 29%;
+    top: 40%;
     bottom: 5%;
     right: 0;
     left: 30%;
@@ -16,9 +16,9 @@
     overflow-y: scroll;
     width: 30%;
 }
-.col-md-7-scroll-right{
+.col-sm-7-scroll-right{
     position: absolute;
-    top: 0;
+    top: 4%;
     bottom: 0;
     right: 0;
     left: 30%;
@@ -105,6 +105,10 @@ margin-top: 20px;
 margin-bottom: 10px;
 }
 
+.col-md-7-scroll{
+border-collapse: collapse;
+}
+
 .card-katalog{
   margin-top: 10px;
 }
@@ -136,4 +140,20 @@ margin-bottom: 10px;
   color: #F6E6E7;
   margin-top: 10px;
   font-size: 20px;
+}
+
+.responsiveContainer{
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.responsiveContainer iframe{
+   left: 0;
+   top: 5%;
+   height: 100%;
+   width: 100%;
+   position: absolute;
+}
 }
